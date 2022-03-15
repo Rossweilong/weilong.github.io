@@ -75,9 +75,9 @@ W. Wang, J. Zheng, K. Kannan and Guoxin Li, **Estimate the Value of Internet Cel
 
 W. Wang, J. Zheng, K. Kannan and Guoxin Li, **Estimate the Value of Internet Celebrity for Online Sellers: An Empirical Analysis**, _Conference on Information Systems and Technology_, Chongqing, China, June, 2021.
 
-W. Wang, J. Zheng, K. Kannan and Guoxin Li, **Who Should I Collaborate With? The Matching Value between Advertisers and Streamers**, _the 30th Workshop on Information Systems and Economics_, Hyderabad, India, December, 2020.
-
 Z. Wang, L. Xu, Z. Kong, W. Wang, X. Peng, E. Zheng, **A Geometry-Aware Algorithm to Learn Hierarchical Embeddings in Hyperbolic Space**, _Workshop at The Ninth International Conference on Learning Representations (ICLR)_, Vienna, Austria, May 2021.
+
+W. Wang, J. Zheng, K. Kannan and Guoxin Li, **Who Should I Collaborate With? The Matching Value between Advertisers and Streamers**, _the 30th Workshop on Information Systems and Economics_, Hyderabad, India, December, 2020.
 
 W. Wang, J. Zheng, K. Kannan and Fei Ren, **Trading Profit for More fairness? A Dynamic Structural Model in a Transportation Network**, _Conference on Information Systems and Technology_, National Harbor, MD, November, 2020.
 
