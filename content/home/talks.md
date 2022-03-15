@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Conference Presentations"
+title = "Conference Proceedings/Presentations"
 subtitle = ""
 
 [content]
@@ -71,8 +71,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-W. Wang, J. Zheng, K. Kannan and Fei Ren, **Estimating the Value of Destination Disclosure: a Dynamic Structural Model in a Transportation Network**, _the 30th Workshop on Information Systems and Economics_, Munich, Germany, December, 2019.
+W. Wang, J. Zheng, K. Kannan and Guoxin Li, **Estimate the Value of Internet Celebrity for Online Sellers: An Empirical Analysis**, _the 14th China Summer Workshop on Information Management_, Newport Beach, CA, October, 2021.
 
+W. Wang, J. Zheng, K. Kannan and Guoxin Li, **Estimate the Value of Internet Celebrity for Online Sellers: An Empirical Analysis**, _Conference on Information Systems and Technology_, Chongqing, China, June, 2021.
+
+W. Wang, J. Zheng, K. Kannan and Guoxin Li, **Who Should I Collaborate With? The Matching Value between Advertisers and Streamers**, _the 30th Workshop on Information Systems and Economics_, Hyderabad, India, December, 2020.
+
+W. Wang, J. Zheng, K. Kannan and Fei Ren, **Trading Profit for More fairness? A Dynamic Structural Model in a Transportation Network**, _Conference on Information Systems and Technology_, National Harbor, MD, November, 2020.
+
+W. Wang, J. Zheng, K. Kannan and Fei Ren, **Estimating the Value of Destination Disclosure: a Dynamic Structural Model in a Transportation Network**, _the 30th Workshop on Information Systems and Economics_, Munich, Germany, December, 2019.
 
 W. Wang, J. Zheng and K. Kannan, **Information Affecting Market Efficiency and Fairness: Estimating a Structural Model for Transportation Network**, _the 13th China Summer Workshop on Information Management_, Shenzhen, China, June 2019. 
 
