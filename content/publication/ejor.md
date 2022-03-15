@@ -1,6 +1,6 @@
 +++
-title = "Thermal Comfort-Based Personalized Models with Non-Intrusive Sensing Technique in Office Buildings"
-date = 2019-04-29T00:00:00
+title = "Primary versus Secondary Infrastructure Capacity Allocation Mechanisms"
+date = 2022-03-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
