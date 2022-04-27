@@ -47,4 +47,14 @@ date_format = "Jan 2006"
   date_end = "2021-08-20"
   description = """
   """
+ 
+ [[experience]] 
+  title = "Applied Scientist II"
+  company = "Amazon"
+  company_url = "https://www.amazon.science/"
+  location = "Seattle, WA"
+  date_start = "2021-12-20"
+  date_end = ""
+  description = """
+  """
 +++
