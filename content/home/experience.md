@@ -37,7 +37,14 @@ date_format = "Jan 2006"
   date_start = "2018-05-20"
   date_end = "2018-08-10"
   description = """
-  
   """
   
+  title = "Applied Scientist Intern"
+  company = "Norfolk Southern"
+  company_url = "http://www.nscorp.com/content/nscorp/en.html"
+  location = "Atlanta, GA"
+  date_start = "2018-05-20"
+  date_end = "2018-08-10"
+  description = """
+  """
 +++
