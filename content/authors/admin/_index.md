@@ -26,7 +26,7 @@ education:
   courses:
   - course: Ph.D. in Management Information System
     institution: Purdue University
-    year: 2023(Expected)
+    year: 2023
   - course: M.S. in Economics
     institution: Purdue University
     year: 2021
