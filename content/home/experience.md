@@ -37,8 +37,7 @@ date_format = "Jan 2006"
   location = "Atlanta, GA"
   date_start = "2018-05-20"
   date_end = "2018-08-10"
-  description = ""
-
+  """
   
   
 +++
