@@ -39,12 +39,5 @@ date_format = "Jan 2006"
   date_end = "2018-08-10"
   description = """
   
-  title = "Applied Scientist Intern"
-  company = "Amazon"
-  company_url = "https://www.amazon.science/"
-  location = "Seattle, WA"
-  date_start = "2021-02-15"
-  date_end = "2021-08-20"
-  description = """
   
 +++
