@@ -71,28 +71,28 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Y. Liu, W. Wang, B. Liu, A. Winston, Twisting the Toll: Electric Vehicles and Information Provision, _International Conference on Information Systems_(**_ICIS_**), Copenhagen, Denmark, Dec 2022
+Y. Liu, W. Wang, B. Liu, A. Winston, Twisting the Toll: Electric Vehicles and Information Provision, _International Conference on Information Systems_ (**_ICIS_**), Copenhagen, Denmark, Dec 2022
 
-Y. Liu, W. Wang, B. Liu, A. Winston, Twisting the Toll: Electric Vehicles and Information Provision, _Conference on Information Systems and Technology_(**_CIST_**), Indianapolis, IN, Oct 2022
+Y. Liu, W. Wang, B. Liu, A. Winston, Twisting the Toll: Electric Vehicles and Information Provision, _Conference on Information Systems and Technology_ (**_CIST_**), Indianapolis, IN, Oct 2022
 
-W. Wang, V. Shai, The Impact of Intermediaries on Online Sequential Sales, _Conference on Information Systems and Technology_(**_CIST_**), Indianapolis, IN, Oct 2022
+W. Wang, V. Shai, The Impact of Intermediaries on Online Sequential Sales, _Conference on Information Systems and Technology_ (**_CIST_**), Indianapolis, IN, Oct 2022
 
-Z, Lu, P. Li, W. Wang, M. Yin, The Effects of AI-based Credibility Indicators on the Detection and Spread of Misinformation under Social Influence, _The 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing_(**_CSCW_**), Taipei, Taiwan Nov 2022
+Z, Lu, P. Li, W. Wang, M. Yin, The Effects of AI-based Credibility Indicators on the Detection and Spread of Misinformation under Social Influence, _The 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing_ (**_CSCW_**), Taipei, Taiwan Nov 2022
 
-W. Wang, J. Zheng, K. Kannan and Guoxin Li, Estimate the Value of Internet Celebrity for Online Sellers: An Empirical Analysis, _Conference on Information Systems and Technology_(**_CIST_**), Newport Beach, CA, October, 2021.
+W. Wang, J. Zheng, K. Kannan and Guoxin Li, Estimate the Value of Internet Celebrity for Online Sellers: An Empirical Analysis, _Conference on Information Systems and Technology_ (**_CIST_**), Newport Beach, CA, October, 2021.
 
-W. Wang, J. Zheng, K. Kannan and Guoxin Li, Estimate the Value of Internet Celebrity for Online Sellers: An Empirical Analysis, _the 14th China Summer Workshop on Information Management_(**_CSWIM_**), Chongqing, China, June, 2021.
+W. Wang, J. Zheng, K. Kannan and Guoxin Li, Estimate the Value of Internet Celebrity for Online Sellers: An Empirical Analysis, _the 14th China Summer Workshop on Information Management_ (**_CSWIM_**), Chongqing, China, June, 2021.
 
-Z. Wang, L. Xu, Z. Kong, W. Wang, X. Peng, E. Zheng, A Geometry-Aware Algorithm to Learn Hierarchical Embeddings in Hyperbolic Space, _Workshop at The Ninth International Conference on Learning Representations_(**_ICLR_**), Vienna, Austria, May 2021.
+Z. Wang, L. Xu, Z. Kong, W. Wang, X. Peng, E. Zheng, A Geometry-Aware Algorithm to Learn Hierarchical Embeddings in Hyperbolic Space, _Workshop at The Ninth International Conference on Learning Representations_ (**_ICLR_**), Vienna, Austria, May 2021.
 
-W. Wang, J. Zheng, K. Kannan and Guoxin Li, Who Should I Collaborate With? The Matching Value between Advertisers and Streamers, _the 30th Workshop on Information Systems and Economics_(**_WISE_**), Hyderabad, India, December, 2020.
+W. Wang, J. Zheng, K. Kannan and Guoxin Li, Who Should I Collaborate With? The Matching Value between Advertisers and Streamers, _the 30th Workshop on Information Systems and Economics_ (**_WISE_**), Hyderabad, India, December, 2020.
 
-W. Wang, J. Zheng, K. Kannan and Fei Ren, Trading Profit for More fairness? A Dynamic Structural Model in a Transportation Network, _Conference on Information Systems and Technology_(**_CIST_**), National Harbor, MD, November, 2020.
+W. Wang, J. Zheng, K. Kannan and Fei Ren, Trading Profit for More fairness? A Dynamic Structural Model in a Transportation Network, _Conference on Information Systems and Technology_ (**_CIST_**), National Harbor, MD, November, 2020.
 
-W. Wang, J. Zheng, K. Kannan and Fei Ren, Estimating the Value of Destination Disclosure: a Dynamic Structural Model in a Transportation Network, _the 30th Workshop on Information Systems and Economics_(**_WISE_**), Munich, Germany, December, 2019.
+W. Wang, J. Zheng, K. Kannan and Fei Ren, Estimating the Value of Destination Disclosure: a Dynamic Structural Model in a Transportation Network, _the 30th Workshop on Information Systems and Economics_ (**_WISE_**), Munich, Germany, December, 2019.
 
-W. Wang, J. Zheng and K. Kannan, Information Affecting Market Efficiency and Fairness: Estimating a Structural Model for Transportation Network, _the 13th China Summer Workshop on Information Management_(**_CSWIM_**), Shenzhen, China, June 2019. 
+W. Wang, J. Zheng and K. Kannan, Information Affecting Market Efficiency and Fairness: Estimating a Structural Model for Transportation Network, _the 13th China Summer Workshop on Information Management_ (**_CSWIM_**), Shenzhen, China, June 2019. 
 
-W. Wang, A. Jacquillat and V. Vaze, Strategic Behaviors In Airport Capacity Allocation Mechanisms, _INFORMS Annual Meeting_(**_INFORMS_**), Phoenix, AZ, Nov 2018. 
+W. Wang, A. Jacquillat and V. Vaze, Strategic Behaviors In Airport Capacity Allocation Mechanisms, _INFORMS Annual Meeting_ (**_INFORMS_**), Phoenix, AZ, Nov 2018. 
 
-S. Lu, W. Wang, C. Lin, E. Hameen, Adaptive and Personalized Thermal Comfort-based HVAC Control in Real Office Environment, _INFORMS Annual Meeting_(**_INFORMS_**), Phoenix, AZ, Nov 2018.
+S. Lu, W. Wang, C. Lin, E. Hameen, Adaptive and Personalized Thermal Comfort-based HVAC Control in Real Office Environment, _INFORMS Annual Meeting_ (**_INFORMS_**), Phoenix, AZ, Nov 2018.
