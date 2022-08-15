@@ -82,6 +82,6 @@ W. Wang, J. Zheng, K. Kannan and F. Ren, Estimate the Value of Destination Discl
 
 B. Liu, W. Wang, Live Commerce Retailing with Online Influencers: Two Business Models, **_Major Revision_** at **_International Journal of Production Economics_**.
 
-W. Wang, V. Shai, "The Impact of Intermediaries on Online Sequential Sales", under review at **_Management Science_**..
+W. Wang, V. Shai, "The Impact of Intermediaries on Online Sequential Sales", under review at **_Management Science_**.
 
-S. Lu, W. Wang, E. Hameen, Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings, under review at _Building and Environment_
+S. Lu, W. Wang, E. Hameen, Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings, under review at **_Building and Environment_**.
