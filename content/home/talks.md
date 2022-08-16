@@ -77,7 +77,7 @@ Y. Liu, W. Wang, B. Liu, A. Winston, Twisting the Toll: Electric Vehicles and In
 
 W. Wang, V. Shai, The Impact of Intermediaries on Online Sequential Sales, _Conference on Information Systems and Technology_ (**_CIST_**), Indianapolis, IN, Oct 2022
 
-Z, Lu, P. Li, W. Wang, M. Yin, The Effects of AI-based Credibility Indicators on the Detection and Spread of Misinformation under Social Influence, _The 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing_ (**_CSCW_**), Taipei, Taiwan Nov 2022
+Z, Lu, P. Li, W. Wang, M. Yin, The Effects of AI-based Credibility Indicators on the Detection and Spread of Misinformation under Social Influence, _The 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing_ (**_CSCW_**), Taipei, Taiwan, Nov 2022
 
 W. Wang, J. Zheng, K. Kannan and Guoxin Li, Estimate the Value of Internet Celebrity for Online Sellers: An Empirical Analysis, _Conference on Information Systems and Technology_ (**_CIST_**), Newport Beach, CA, October, 2021.
 
