@@ -42,9 +42,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: cv
-  icon_pack: ai
-  link: https://drive.google.com/file/d/1r_yxt1_H7xAY7yJRnN70QWfSy46DebU6/view?usp=sharing
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pgsHtv0AAAAJ&hl=en
@@ -78,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-Weilong Wang is a PhD student in [Management in Information System](https://krannert.purdue.edu/academics/MIS/) at Krannert School of Management, Purdue University. He is fortunately advised by Professor [Karthik Kannan](https://www.krannert.purdue.edu/faculty/kkarthik/) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/). He also works closely with Professor [Shai Vardi](https://www.krannert.purdue.edu/directory/bio.php?username=svardi) and [Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/). He was a PhD student in the [Department of Civil & Environment Engineering](https://www.cmu.edu/cee/) at Carnegie Mellon University, where he collaborated with Professor [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat) and [Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze).
+Weilong Wang is a PhD student in [Management in Information System](https://krannert.purdue.edu/academics/MIS/) at Krannert School of Management, Purdue University. He works with Professor [Karthik Kannan](https://www.krannert.purdue.edu/faculty/kkarthik/) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/). He also works closely with Professor [Shai Vardi](https://www.krannert.purdue.edu/directory/bio.php?username=svardi) and [Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/). He was a PhD student in the [Department of Civil & Environment Engineering](https://www.cmu.edu/cee/) at Carnegie Mellon University, where he collaborated with Professor [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat) and [Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze).
 
 His research applies structural and reduced-form models to solve complex economics and operations problems, with a particular interest in the area of the platform economy, including two-sided platforms, influencer marketing, consumer welfare under information sharing, and economics of breaking technologies.
 
