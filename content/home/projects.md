@@ -78,7 +78,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-W. Wang, J. Zheng, K. Kannan and F. Ren, Estimate the Value of Destination Disclosure: a Dynamic Structural Model of Transportation Network, **_Major Revision_** at **_Management Science_**.
+# W. Wang, J. Zheng, K. Kannan and F. Ren, Estimate the Value of Destination Disclosure: a Dynamic Structural Model of Transportation Network, **_Major Revision_** at **_Management Science_**.
 
 B. Liu, W. Wang, Live Commerce Retailing with Online Influencers: Two Business Models, **_Major Revision_** at **_International Journal of Production Economics_**.
 
