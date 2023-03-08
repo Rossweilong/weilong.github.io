@@ -75,8 +75,10 @@ user_groups:
 - Visitors
 ---
 
-Weilong Wang received PhD in [Management in Information Systems](https://krannert.purdue.edu/academics/MIS/) from Purdue University. He works closely with Professor [Shai Vardi](https://www.krannert.purdue.edu/directory/bio.php?username=svardi), [Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), Professor [Karthik Kannan](https://provost.arizona.edu/person/karthik-kannan), and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/). Before that, he was a PhD student in the [Department of Civil & Environment Engineering](https://www.cmu.edu/cee/) at Carnegie Mellon University, where he collaborated with Professor [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat) and [Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze).
+Weilong Wang is currently an applied scientist II at Amazon.
 
-His research applies structural and reduced-form models to solve complex economics and operations problems, with a particular interest in the area of the platform economy, including two-sided platforms, influencer marketing, consumer welfare under information sharing, and economics of breaking technologies.
+His research focuses on platform economy, innovation, and entrepreneurship management with both structural and reduced-form models.
 
-In addition to his research, Weilong worked with Amazon, Norfolk Southern Railway and Citi Bank to resolve real-world operational problems in business, technology, transportation, logistics. He received a Master of Science in Economics from Purdue, a Master of Science in Advanced Infrastructure System from CMU, a Bachelor of Science in Physics from Fudan University.
+Weilong is the recipient of several research awards, including the Best Paper Award from CSCW 2022 and the Best Paper Award from CSWIM 2019.
+
+Prior to joining Amazon, Weilong worked at Norfolk Southern Railway, advising data-driven transportation and logistics decision makings. He received a PhD in Management Information Systems and aMaster of Science in Economics both from Purdue, a Master of Science in Advanced Infrastructure System from CMU, and a Bachelor of Science in Physics from Fudan University.
