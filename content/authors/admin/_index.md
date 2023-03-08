@@ -10,16 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Management Information System
+role: Applied Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Krannert School of Management
-  url: "https://krannert.purdue.edu/"
+- name: Amazon
+  url: "https://www.amazon.com/"
 
 interests:
-- Economic of IS
-- Urban Transportation
+- Innovation
+- Entrepreneurship management
 - Data-driven Decision Making
 
 education:
