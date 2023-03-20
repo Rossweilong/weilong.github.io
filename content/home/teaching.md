@@ -21,7 +21,7 @@ weight = 100
 
 Instructor
 
-- **MGMT 544-00**: Database Management Systems (4.8/5.0), Purdue University, Fall 2020
+- **MGMT 544-00**: Database Management Systems (4.8 / 5.0), Purdue University, Fall 2020
 
 Teaching Assistant
 
