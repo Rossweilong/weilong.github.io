@@ -81,4 +81,4 @@ His research focuses on platform economy, innovation, and entrepreneurship manag
 
 Weilong is the recipient of several research awards, including the Best Paper Award from CSCW 2022 and the Best Paper Award from CSWIM 2019.
 
-Prior to joining Amazon, Weilong worked at Norfolk Southern Railway, advising data-driven transportation and logistics decision makings. He received a PhD in Management Information Systems and aMaster of Science in Economics both from Purdue, a Master of Science in Advanced Infrastructure System from CMU, and a Bachelor of Science in Physics from Fudan University.
+Prior to joining Amazon, Weilong received a PhD in Management Information Systems and aMaster of Science in Economics both from Purdue, a Master of Science in Advanced Infrastructure System from CMU, and a Bachelor of Science in Physics from Fudan University. He also worked at Norfolk Southern Railway, advising data-driven transportation and logistics decision makings. 
