@@ -18,8 +18,8 @@ authors = ["B. Liu", "W. Wang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*International Journal of Production Economics*"
-publication_short = "*International Journal of Production Economics*"
+publication = "**_International Journal of Production Economics_**"
+publication_short = "**_International Journal of Production Economics_**"
 
 # Abstract and optional shortened version.
 abstract = "Selling during online influencers’ livestreaming has become prevalent in the retailing sector. Critical decisions for firms to keep the business sustainably profitable include whether it is worth collaborating with influencers, collaboration approaches, and the corresponding pricing and inventory decisions. Based on industrial practice, we investigate two business models: the Influencer-oriented Short-window (IOSW) model and the Market-oriented Long-window (MOLW) model, to understand how the models benefit a firm and how decision-making affects profit sustainability. To this end, we build stochastic optimization models and derive managerial insights. We find that neither of the two models dominates the other, so firms should not irrationally follow a case with successful influencer collaboration experiences. Moreover, a firm’s innovation capacity is the critical competence in the IOSW model, and an influencer’s fan base size is the fundamental driver for profits in the MOLW model. Firms should prioritize the “lowest price” strategy if they are not over-optimistic about the success of the livestream shows."
