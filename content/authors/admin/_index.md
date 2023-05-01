@@ -15,7 +15,7 @@ role: Applied Scientist
 # Organizations/Affiliations
 organizations:
 - name: Amazon
-  url: "[https://www.amazon.com/](https://www.amazon.science/)"
+  url: "[https://www.amazon.science/](https://www.amazon.science/)"
 
 interests:
 - Innovation
