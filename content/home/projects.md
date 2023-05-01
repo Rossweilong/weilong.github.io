@@ -79,6 +79,6 @@ subtitle = ""
  css_class = ""
 +++
 
-W. Wang, V. Shai, "The Impact of Intermediaries on Online Sequential Sales", under review at **_Information Systems Research_**.
+<div style="text-align: justify"> W. Wang, V. Shai, "The Impact of Intermediaries on Online Sequential Sales", under review at <em><strong>Information Systems Research</strong></em>. </div>
 
 S. Lu, W. Wang, E. Hameen, Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings, under review at **_Building and Environment_**.
