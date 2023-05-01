@@ -18,8 +18,8 @@ authors = ["S. Lu", "W. Wang", "S. Wang", "E. Hameen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Applied Science*"
-publication_short = "*Applied Science*"
+publication = "**_Applied Science_**"
+publication_short = "**_Applied Science_**"
 
 # Abstract and optional shortened version.
 abstract = "Heating, ventilation and air-conditioning (HVAC) systems play a key role in shaping the built environment. However, centralized HVAC systems cannot guarantee the provision of a comfortable thermal environment for everyone. Therefore, a personalized HVAC system that aims to adapt thermal preferences has drawn much more attention. Meanwhile, occupant-related factors like skin temperature have not had standardized measurement methods. Therefore, this paper proposes to use infrared thermography to develop individual thermal models to predict thermal sensations using three different feature sets with the random forest (RF) and support vector machine (SVM). The results have shown the correlation coefficients between clothing surface temperature and thermal sensation are 11% and 3% higher than those between skin temperature and thermal sensation of two subjects, respectively. With cross-validation, SVM with a linear kernel and penalty number of 1, as well as RF with 50 trees and the maximum tree depth of 3 were selected as the model configurations. As a result, the model trained with the feature set, consisting of indoor air temperature, relative humidity, skin temperature and clothing surface temperature, and with linear kernel SVM has achieved 100% recall score on test data of female subjects and 95% recall score on that of male subjects"
