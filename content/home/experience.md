@@ -29,32 +29,5 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Operations Research and Information Technology Intern"
-  company = "Norfolk Southern"
-  company_url = "http://www.nscorp.com/content/nscorp/en.html"
-  location = "Atlanta, GA"
-  date_start = "2018-05-20"
-  date_end = "2018-08-10"
-  description = """
-  """
- [[experience]] 
-  title = "Applied Scientist Intern"
-  company = "Amazon"
-  company_url = "https://www.amazon.science/"
-  location = "Seattle, WA"
-  date_start = "2021-02-15"
-  date_end = "2021-08-20"
-  description = """
-  """
- 
- [[experience]] 
-  title = "Applied Scientist II"
-  company = "Amazon"
-  company_url = "https://www.amazon.science/"
-  location = "Seattle, WA"
-  date_start = "2021-12-20"
-  date_end = ""
-  description = """
-  """
+
 +++
