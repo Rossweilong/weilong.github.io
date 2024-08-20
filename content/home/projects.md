@@ -79,6 +79,10 @@ subtitle = ""
  css_class = ""
 +++
 
-W. Wang, V. Shai, The Impact of Intermediaries on Online Sequential Sales, under review at **_Information Systems Research_**.
+W. Wang, J. Guzman, M. Small, Do Alternative Financial Institutions Help or Hurt Entrepreneurship in Neighborhoods?, in preparation.
+
+Y. Deng, W. Wang, J. Zheng, G. Li, K. Kannan, Feeting or Lasting Success? Unlocking the Power of Livestream Selling, in preparation.
+
+W. Wang, V. Shai, The Economic Impacts of Lotteries for Over-Demanded Goods, in preparation.
 
 S. Lu, W. Wang, E. Hameen, Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings, under review at **_Building and Environment_**.
