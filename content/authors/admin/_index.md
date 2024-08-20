@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-<div style="text-align: justify"> Weilong Wang is a Postdoctoral Scholar in the Management Division at Columbia Business School. His research focuses on technology adoption and innovation across locations, innovation, with a focus on entrepreneurship. Weilong has received several research awards, including the Best Paper Award from CSCW 2022 and the Best Paper Award from CSWIM 2019. <br>
+<div style="text-align: justify"> Weilong Wang's research focuses on technology adoption and innovation across locations, innovation, with a focus on entrepreneurship. Weilong has received several research awards, including the Best Paper Award from CSCW 2022 and the Best Paper Award from CSWIM 2019. <br>
   
 Weilong completed his PhD in Management Information Systems at Purdue. He received a Master of Science in Advanced Infrastructure Systems from CMU and a Bachelor of Science in Physics from Fudan University. </div>
