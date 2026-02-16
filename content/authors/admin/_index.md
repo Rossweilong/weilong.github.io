@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/Weilong64498476
 - icon: envelope
   icon_pack: fas
-  link: mailto:wang4167@purdue.edu
+  link: mailto:weilong@alumni.purdue.edu
  
   
 # Link to a PDF of your resume/CV from the About widget.
