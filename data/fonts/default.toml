@@ -2,13 +2,13 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Space+Grotesk:400,500,700"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "Space Grotesk"
+body_font = "Space Grotesk"
+nav_font = "Space Grotesk"
+mono_font = "Space Grotesk"
 
 # Font size
 font_size = "18"

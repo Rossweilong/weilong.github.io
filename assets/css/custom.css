@@ -167,3 +167,20 @@ img {
     padding-right: 1rem;
   }
 }
+
+/* Unified AI-style typography across the site */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar,
+.nav-link,
+.btn,
+input,
+textarea,
+select {
+  font-family: "Space Grotesk", sans-serif;
+}

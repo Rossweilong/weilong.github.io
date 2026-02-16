@@ -19,17 +19,14 @@ weight = 100
 
 +++
 
-Instructor
+- **Instructor**: **MGMT 544-00**: Database Management Systems (4.8 out of 5.0), Purdue University, Fall 2020
+- **Teaching Assistant**: **MGMT 687-00**: Designing for Instincts: Social Networks and Engagements, Purdue University, Spring 2020
+- **Teaching Assistant**: **MGMT 683-00**: IT for Innovation and Competitive Advantage, Purdue University, Spring 2020
 
-- **MGMT 544-00**: Database Management Systems (4.8 out of 5.0), Purdue University, Fall 2020
+<details>
+<summary><strong>More</strong></summary>
 
-Teaching Assistant
+- **Teaching Assistant**: **MGMT 683-00**: Information Technology for Managers, Purdue University, Summer 2019
+- **Teaching Assistant**: **12-704**: Probability and Estimation Methods for Engineering Systems, Carnegie Mellon University, Fall 2017
 
-- **MGMT 687-00**: Designing for Instincts: Social Networks and Engagements, Purdue University, Spring 2020
-
-- **MGMT 683-00**: IT for Innovation and Competitive Advantage, Purdue University, Spring 2020
-
-- **MGMT 683-00**: Information Technology for Managers, Purdue University, Summer 2019
-
-- **12-704**: Probability and Estimation Methods for Engineering Systems, Carnegie Mellon University, Fall 2017 
-
+</details>

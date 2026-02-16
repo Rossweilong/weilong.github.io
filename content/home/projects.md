@@ -79,10 +79,13 @@ subtitle = ""
  css_class = ""
 +++
 
-W. Wang, J. Guzman, M. Small, Do Alternative Financial Institutions Help or Hurt Entrepreneurship in Neighborhoods?, in preparation.
+- W. Wang, J. Guzman, M. Small, Do Alternative Financial Institutions Help or Hurt Entrepreneurship in Neighborhoods?, in preparation.
+- Y. Deng, W. Wang, J. Zheng, G. Li, K. Kannan, Fleeting or Lasting Success? Unlocking the Power of Livestream Selling, in preparation.
+- W. Wang, V. Shai, The Economic Impacts of Lotteries for Over-Demanded Goods, in preparation.
 
-Y. Deng, W. Wang, J. Zheng, G. Li, K. Kannan, Feeting or Lasting Success? Unlocking the Power of Livestream Selling, in preparation.
+<details>
+<summary><strong>More</strong></summary>
 
-W. Wang, V. Shai, The Economic Impacts of Lotteries for Over-Demanded Goods, in preparation.
+- S. Lu, W. Wang, E. Hameen, Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings, under review at **_Building and Environment_**.
 
-S. Lu, W. Wang, E. Hameen, Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings, under review at **_Building and Environment_**.
+</details>

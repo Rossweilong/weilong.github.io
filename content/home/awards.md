@@ -72,10 +72,13 @@ subtitle = ""
  css_class = ""
 +++
 
-**Best Paper**, _The 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing_, 2022
+- **Best Paper**, _The 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing_, 2022
+- **Best Paper**, _13th China Summer Workshop on Information Management_, 2019
+- **Mao Yisheng Graduate Fellowship**, _Carnegie Mellon University_, 2018
 
-**Best Paper**, _13th China Summer Workshop on Information Management_, 2019
+<details>
+<summary><strong>More</strong></summary>
 
-**Mao Yisheng Graduate Fellowship**, _Carnegie Mellon University_, 2018
+- **Dean's Fellowship**, _Carnegie Mellon University_, 2017
 
-**Dean's Fellowship**, _Carnegie Mellon University_, 2017
+</details>
